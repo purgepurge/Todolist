@@ -86,6 +86,6 @@ button:focus-visible {
 
 input {
   padding: 5px;
-  width: 150px; /* Mantém uma largura fixa para o input */
+  width: 150px;
   margin-bottom: 2px;
 }
